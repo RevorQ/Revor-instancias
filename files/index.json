@@ -16,5 +16,13 @@
     "description": "Mundo creativo para construcción libre",
     "image": "https://i.imgur.com/4M7IWwP.png",
     "whitelistActive": false
+  },
+  "Hardcore": {
+    "version": "1.18.2",
+    "modLoader": "vanilla",
+    "javaArgs": "-Xmx2G",
+    "description": "Modo extremo, una sola vida",
+    "image": "https://i.imgur.com/3ZQZ3ZL.png",
+    "whitelistActive": false
   }
 }
