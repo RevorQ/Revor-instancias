@@ -5,7 +5,8 @@
     "modLoaderVersion": "47.1.0",
     "javaArgs": "-Xmx4G",
     "description": "Servidor Survival con mods",
-    "image": "https://i.imgur.com/8fKQZ5L.jpeg"
+    "image": "https://i.imgur.com/8fKQZ5L.jpeg",
+    "whitelistActive": false
   },
   "Creativo": {
     "version": "1.19.4",
@@ -13,6 +14,7 @@
     "modLoaderVersion": "0.14.21",
     "javaArgs": "-Xmx3G",
     "description": "Mundo creativo para construcción libre",
-    "image": "https://i.imgur.com/4M7IWwP.png"
+    "image": "https://i.imgur.com/4M7IWwP.png",
+    "whitelistActive": false
   }
 }
