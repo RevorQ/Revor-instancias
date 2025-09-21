@@ -4,6 +4,15 @@
     "modLoader": "forge",
     "modLoaderVersion": "47.1.0",
     "javaArgs": "-Xmx4G",
-    "description": "Servidor Survival con mods"
+    "description": "Servidor Survival con mods",
+    "image": "https://i.imgur.com/8fKQZ5L.jpeg"
+  },
+  "Creativo": {
+    "version": "1.19.4",
+    "modLoader": "fabric",
+    "modLoaderVersion": "0.14.21",
+    "javaArgs": "-Xmx3G",
+    "description": "Mundo creativo para construcción libre",
+    "image": "https://i.imgur.com/4M7IWwP.png"
   }
 }
