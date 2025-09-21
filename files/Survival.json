@@ -1,7 +1,0 @@
-{
-  "version": "1.20.1",
-  "modLoader": "forge",
-  "modLoaderVersion": "47.1.0",
-  "javaArgs": "-Xmx4G",
-  "description": "Servidor Survival con mods"
-}
