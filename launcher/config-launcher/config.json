@@ -1,9 +1,32 @@
 {
   "launcherName": "Revor Launcher",
   "rss": "",
-  "background": "",
-  "logo": "",
-  "color": "#00b97d",
+  "background": "https://i.imgur.com/8fKQZ5L.jpeg",
+  "logo": "https://i.imgur.com/4M7IWwP.png",
+  "color": "#ff3c00",
   "discord": "https://discord.gg/deYH6btduE",
-  "news": true
+  "news": true,
+  "defaultInstance": "Survival",
+  "buttons": {
+    "playText": "Jugar",
+    "settingsText": "Opciones",
+    "quitText": "Salir"
+  },
+  "social": [
+    {
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/deYH6btduE"
+    },
+    {
+      "name": "YouTube",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@RevorQ"
+    }
+  ],
+  "instancesOptions": {
+    "showDescription": true,
+    "showVersion": true,
+    "showModLoader": true
+  }
 }
