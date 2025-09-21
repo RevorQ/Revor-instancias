@@ -1,1 +1,7 @@
-
+{
+  "version": "1.19.4",
+  "modLoader": "fabric",
+  "modLoaderVersion": "0.14.21",
+  "javaArgs": "-Xmx3G",
+  "description": "Mundo creativo para construcción libre"
+}
